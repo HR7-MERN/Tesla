@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.tesla-bg-container {
+    background-color: #ffffff;
+    text-align: left;
+}
+
+.tesla-heading {
+    font-family: "Bree-serif";
+    font-size: 26px;
+    color: red;
+    font-weight: bold;
+    padding: 5px;
+    margin: 20px;
+}
+
+.tesla-heading1 {
+    font-family: "Bree-serif";
+    font-size: 26px;
+    color: red;
+    font-weight: bold;
+    padding: 5px;
+    margin: 30px;
+}
+
+.detailed-view-card-text-container {
+    padding: 10px;
+    text-align: center;
+}
+
+.detailed-view-card-heading {
+    color: red;
+    background-color: #ffffff;
+    font-family: "Bree-Serif";
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    background-color: red;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 13px;
+    text-align: left;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+}
+
+.back-button {
+    height: 36px;
+    width: 138px;
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.tesla-image {
+    width: 422px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.models-paragraph {
+    text-align: left;
+    font-family: "Roboto";
+    font-size: 14px;
+    color: white;
+}
+
+.models-heading {
+    font-family: "Bree-serif";
+    font-size: 24px;
+    color: white;
+    padding: 5px;
+}
+
+.tesla-models-card-container {
+    background-color: black;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    border-width: 0px;
+    border-style: solid;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.tesla-card-text-container {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.buynow-button {
+    height: 36px;
+    width: 138px;
+    background-color: #ffffff;
+    color: green;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.button-align {
+    text-align: center;
+}
